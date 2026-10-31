@@ -1,0 +1,8 @@
+# Build output
+build/
+*.apk
+*.idsig
+
+# Secrets / personal data
+*.keystore
+**/wifi-qr.png
